@@ -1,5 +1,7 @@
 # ParaBank E2E — Python (портфолио)
 
+![Tests](https://github.com/KSO48/parabank-e2e-python/actions/workflows/tests.yml/badge.svg)
+
 Python-порт [TypeScript-версии](https://github.com/KSO48/parabank-e2e) этого
 же проекта — те же два сценария, тот же набор реальных находок по сайту,
 но на `pytest` + `pytest-playwright` вместо `@playwright/test`. Сделано,
